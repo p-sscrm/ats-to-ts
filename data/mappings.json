@@ -1,0 +1,3192 @@
+[
+    {
+        "MITRE ATTACK Technique":"T1001",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1003",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1003",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1005",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1008",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1021",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1021",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1021",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1025",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1027",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1036",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1036",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1040",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1040",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1040",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1040",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1041",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1041",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1041",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1046",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1046",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1047",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1047",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1048",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1048",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1052",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1059",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1059",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1059",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1068",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1068",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1068",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1068",
+        "P-SSCRM Task":"G.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1068",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1070",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1071",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1071",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.1.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.1.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"G.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"G.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1072",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.9",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.9",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.9",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"E.3.9",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1078",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1080",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1080",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1080",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1090",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1095",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.1.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1102",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1104",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1105",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1105",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1110",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1114",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1114",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1127",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1133",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1133",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1134",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1134",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1136",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1176",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1176",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1176",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1185",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1187",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1189",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1189",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"D.1.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"D.1.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.2.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"G.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"G.5.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"P.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"P.4.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.1.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.1.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.1.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.1.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.1.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.1.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.3.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.4.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.5.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.4.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.4.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.5.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"G.5.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1203",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1203",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1204",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1205",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1205",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1205",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"G.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"P.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1210",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1211",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1211",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1211",
+        "P-SSCRM Task":"G.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1211",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1212",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1212",
+        "P-SSCRM Task":"E.2.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1212",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1212",
+        "P-SSCRM Task":"G.4.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1212",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1213",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1213",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1213",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1213",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1218",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1218",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1219",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1221",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1221",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1222",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1484",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1489",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1505",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1505",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1505",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1505",
+        "P-SSCRM Task":"P.4.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1525",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1525",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1528",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1528",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1530",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1530",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1530",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1537",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1537",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1538",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1543",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1543",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1543",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1543",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1548",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"G.3.4",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1550",
+        "P-SSCRM Task":"G.3.4",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1552",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"D.1.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"D.1.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"P.4.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1553",
+        "P-SSCRM Task":"P.5.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1554",
+        "P-SSCRM Task":"P.3.3",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1555",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1555",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1556",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1557",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1558",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1558",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1558",
+        "P-SSCRM Task":"E.3.8",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1559",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1562",
+        "P-SSCRM Task":"D.1.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1562",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1562",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1563",
+        "P-SSCRM Task":"E.3.2",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1563",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1565",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1565",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1565",
+        "P-SSCRM Task":"G.2.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1566",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1567",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1568",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1568",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1569",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1570",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1571",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1572",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1573",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":false,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1573",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1574",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1578",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1599",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1602",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1602",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1606",
+        "P-SSCRM Task":"D.2.1",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1606",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":true
+    },
+    {
+        "MITRE ATTACK Technique":"T1606",
+        "P-SSCRM Task":"G.3.4",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":true,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1609",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1609",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1610",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1611",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1611",
+        "P-SSCRM Task":"P.2.1",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1612",
+        "P-SSCRM Task":"E.3.6",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1612",
+        "P-SSCRM Task":"P.4.5",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1621",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1649",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1651",
+        "P-SSCRM Task":"E.3.3",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1659",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1659",
+        "P-SSCRM Task":"E.3.4",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1659",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1659",
+        "P-SSCRM Task":"E.3.7",
+        "Transitive (M1)":true,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":false,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1027",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1036",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1080",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1098",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"D.1.7",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1190",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"D.1.7",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1195",
+        "P-SSCRM Task":"G.5.5",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"D.1.7",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1199",
+        "P-SSCRM Task":"G.5.5",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1221",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1564",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":true,
+        "Report (M4)":false,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1584",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    },
+    {
+        "MITRE ATTACK Technique":"T1608",
+        "P-SSCRM Task":"E.3.11",
+        "Transitive (M1)":false,
+        "LLM (M2)":true,
+        "Framework (M3)":false,
+        "Report (M4)":true,
+        "Is Gap":true,
+        "Agreed Upon All Strategies":false
+    }
+]

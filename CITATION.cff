@@ -1,0 +1,9 @@
+@misc{hamer2025closingchainreducerisk,
+      title={{Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils}}, 
+      author={Sivana Hamer and Jacob Bowen and Md Nazmul Haque and Robert Hines and Chris Madden and Laurie Williams},
+      year={2025},
+      eprint={2503.12192},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2503.12192}, 
+}
