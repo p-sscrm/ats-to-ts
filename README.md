@@ -47,7 +47,9 @@ The `mappings.json` file contains an array of mapping objects with the following
 
 ##  Citation
 
-If you use the mapping data in your research or work, please cite:
+If you use the mapping data in your research or work, please cite this repository. Citation information is available in the `CITATION.cff` file in the root of this repository.
+
+You can also reference the related research paper:
 
 ```bibtex
 @misc{hamer2025closingchainreducerisk,
