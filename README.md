@@ -6,43 +6,50 @@ This repository contains mappings between **MITRE ATT&CK** techniques and **P-SS
 
 ```
 ats-to-ts/
-├── README.md          # This file
-├── license            # CC BY-SA 4.0 License
+├── README.md                              # This file
+├── license                                # CC BY-SA 4.0 License
 └── data/
-    └── mappings.json  # Main mapping data
+    ├── technique_2_task_mappings.json     # Main mapping data (JSON)
+    └── technique_2_task_mappings.csv      # Main mapping data (CSV)
 ```
 
 ## Data Structure
 
-The `mappings.json` file contains an array of mapping objects with the following schema:
+The mapping data is provided in two equivalent formats: a CSV (`technique_2_task_mappings.csv`) and a JSON (`technique_2_task_mappings.json`), covering 136 unique MITRE ATT&CK techniques mapped to 43 unique P-SSCRM tasks (330 mappings in total).
 
+### JSON
 
-### Field Descriptions
+The JSON file contains a flat array of mapping objects, one per technique-task pair, with the following schema:
 
 | Field | Type | Description |
 |-------|------|-------------|
 | `MITRE ATTACK Technique` | String | MITRE ATT&CK technique identifier |
 | `P-SSCRM Task` | String | P-SSCRM task identifier |
-| `Transitive (M1)` | Boolean | If found by strategy M1: Transitive |
-| `LLM (M2)` | Boolean | If found by strategy M2: LLM |
-| `Framework (M3)` | Boolean | If found by strategy M3: Framework |
-| `Report (M4)` | Boolean | If found by strategy M4: Report |
-| `Is Gap` | Boolean | If the task was a new task (gap tasks) |
-| `Agreed Upon All Strategies` | Boolean | If all four strategies were agreed upon |
 
-### Example
+#### Example
 
 ```json
 {
   "MITRE ATTACK Technique": "T1001",    // MITRE ATT&CK Technique ID
-  "P-SSCRM Task": "E.3.7",              // P-SSCRM Task identifier
-  "Transitive (M1)": true,              // If found by strategy M1: Transitive
-  "LLM (M2)": false,                    // If found by strategy M2: LLM
-  "Framework (M3)": true,               // If found by strategy M3: Framework
-  "Report (M4)": true,                  // If found by strategy M4: Report
-  "Is Gap": false,                      // If the task was a new task (gap tasks)
-  "Agreed Upon All Strategies": false   // If all four strategies were agreed upon
+  "P-SSCRM Task": "E.3.7"               // P-SSCRM Task identifier
 }
+```
+
+### CSV
+
+The CSV file has one row per MITRE ATT&CK technique, with its mapped P-SSCRM task(s) listed in a single comma-separated column.
+
+| Column | Description |
+|--------|-------------|
+| `MITRE_technique` | MITRE ATT&CK technique identifier |
+| `PSSCRM_control` | One or more P-SSCRM task identifiers (comma-separated if there are multiple) |
+
+#### Example
+
+```csv
+MITRE_technique,PSSCRM_control
+T1001,E.3.7
+T1003,"D.2.1, E.3.3"
 ```
 
 ##  Citation
