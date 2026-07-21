@@ -10,7 +10,10 @@ ats-to-ts/
 ├── license                                # CC BY-SA 4.0 License
 └── data/
     ├── technique_2_task_mappings.json     # Main mapping data (JSON)
-    └── technique_2_task_mappings.csv      # Main mapping data (CSV)
+    ├── technique_2_task_mappings.csv      # Main mapping data (CSV)
+    └── strategies_results/
+        ├── technique_2_task_mapping_with_M1_2_M4.json  # Mappings broken down by strategy (JSON)
+        └── technique_2_task_mapping_with_M1_2_M4.csv    # Mappings broken down by strategy (CSV)
 ```
 
 ## Data Structure
@@ -50,6 +53,32 @@ The CSV file has one row per MITRE ATT&CK technique, with its mapped P-SSCRM tas
 MITRE_technique,PSSCRM_control
 T1001,E.3.7
 T1003,"D.2.1, E.3.3"
+```
+
+## Strategy-Level Results
+
+The `data/strategies_results/` folder contains the same 330 technique-task mappings, but broken down by which of the four mapping strategies described in the paper identified each pairing. Each row/object represents one MITRE ATT&CK technique to P-SSCRM task mapping, with a boolean flag per strategy indicating whether that strategy surfaced the mapping.
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `MITRE ATTACK Technique` | String | MITRE ATT&CK technique identifier |
+| `P-SSCRM Task` | String | P-SSCRM task identifier |
+| `Transitive (M1)` | Boolean | Found via strategy M1: Transitive |
+| `LLM (M2)` | Boolean | Found via strategy M2: LLM |
+| `Framework (M3)` | Boolean | Found via strategy M3: Framework |
+| `Report (M4)` | Boolean | Found via strategy M4: Report |
+
+### Example
+
+```json
+{
+  "MITRE ATTACK Technique": "T1001",
+  "P-SSCRM Task": "E.3.7",
+  "Transitive (M1)": true,
+  "LLM (M2)": false,
+  "Framework (M3)": true,
+  "Report (M4)": true
+}
 ```
 
 ##  Citation
