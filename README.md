@@ -2,6 +2,17 @@
 
 This repository contains mappings between **MITRE ATT&CK** techniques and **P-SSCRM** (Proactive Security for Software Cybersecurity Risk Management) tasks.
 
+**Current version: 1.1** (tracked on the `main` branch). See [Version History](#version-history) below for previous releases.
+
+## Version History
+
+Each released version of the mapping is preserved on its own branch so that prior results remain reproducible.
+
+| Version | Branch | Description |
+|---------|--------|--------------|
+| **1.1 (current)** | [`main`](https://github.com/p-sscrm/ats-to-ts/tree/main) / [`version_1_1`](https://github.com/p-sscrm/ats-to-ts/tree/version_1_1) | Split the mapping into separate `technique_2_task_mappings.json`/`.csv` files, and added a `data/strategies_results/` breakdown showing which of the four mapping strategies (M1–M4) identified each pairing. |
+| 1.0 | [`version_1_0`](https://github.com/p-sscrm/ats-to-ts/tree/version_1_0) | Initial release, with a single `data/mappings.json` combining the mapping, per-strategy flags, gap-task indicator, and cross-strategy agreement field. |
+
 ## Repository Structure
 
 ```
