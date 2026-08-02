@@ -5,7 +5,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1003",
@@ -13,7 +16,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1003",
@@ -21,7 +27,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1005",
@@ -29,7 +38,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1008",
@@ -37,7 +49,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1021",
@@ -45,7 +60,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1021",
@@ -53,7 +71,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1021",
@@ -61,7 +82,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1025",
@@ -69,7 +93,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1027",
@@ -77,7 +104,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1036",
@@ -85,7 +115,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1036",
@@ -93,7 +126,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1040",
@@ -101,7 +137,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1040",
@@ -109,7 +148,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1041",
@@ -117,7 +159,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1041",
@@ -125,7 +170,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1041",
@@ -133,7 +181,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1046",
@@ -141,7 +192,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1046",
@@ -149,7 +203,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1047",
@@ -157,7 +214,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1047",
@@ -165,7 +225,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1048",
@@ -173,7 +236,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1048",
@@ -181,7 +247,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1052",
@@ -189,7 +258,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1059",
@@ -197,7 +269,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1059",
@@ -205,7 +280,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1059",
@@ -213,7 +291,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1068",
@@ -221,7 +302,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1068",
@@ -229,7 +313,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1068",
@@ -237,7 +324,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1068",
@@ -245,7 +335,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1068",
@@ -253,7 +346,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1070",
@@ -261,7 +357,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1071",
@@ -269,7 +368,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1071",
@@ -277,7 +379,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -285,7 +390,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -293,7 +401,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -301,7 +412,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -309,7 +423,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -317,7 +434,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -325,7 +445,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1072",
@@ -333,7 +456,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -341,7 +467,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -349,7 +478,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -357,7 +489,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -365,7 +500,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -373,7 +511,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -381,7 +522,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1078",
@@ -389,7 +533,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1080",
@@ -397,7 +544,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1080",
@@ -405,7 +555,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1080",
@@ -413,7 +566,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1090",
@@ -421,7 +577,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1095",
@@ -429,7 +588,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1098",
@@ -437,7 +599,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1098",
@@ -445,7 +610,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1098",
@@ -453,7 +621,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1102",
@@ -461,7 +632,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1104",
@@ -469,7 +643,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1105",
@@ -477,7 +654,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1105",
@@ -485,7 +665,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1110",
@@ -493,7 +676,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1114",
@@ -501,7 +687,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1114",
@@ -509,7 +698,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1127",
@@ -517,7 +709,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1133",
@@ -525,7 +720,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1134",
@@ -533,7 +731,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1136",
@@ -541,7 +742,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1176",
@@ -549,7 +753,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1176",
@@ -557,7 +764,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1176",
@@ -565,7 +775,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1185",
@@ -573,7 +786,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1187",
@@ -581,7 +797,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1189",
@@ -589,7 +808,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1189",
@@ -597,7 +819,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -605,7 +830,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -613,7 +841,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -621,7 +852,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -629,7 +863,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -637,7 +874,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -645,7 +885,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -653,7 +896,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -661,7 +907,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -669,7 +918,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -677,7 +929,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -685,7 +940,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -693,7 +951,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -701,7 +962,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -709,7 +973,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -717,7 +984,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -725,7 +995,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -733,7 +1006,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -741,7 +1017,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -749,7 +1028,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -757,7 +1039,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -765,7 +1050,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -773,7 +1061,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -781,7 +1072,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -789,7 +1083,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -797,7 +1094,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -805,7 +1105,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -813,7 +1116,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -821,7 +1127,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -829,7 +1138,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -837,7 +1149,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -845,7 +1160,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -853,7 +1171,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -861,7 +1182,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -869,7 +1193,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -877,7 +1204,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -885,7 +1215,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1203",
@@ -893,7 +1226,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1203",
@@ -901,7 +1237,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1204",
@@ -909,7 +1248,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1205",
@@ -917,7 +1259,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -925,7 +1270,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -933,7 +1281,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -941,7 +1292,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -949,7 +1303,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -957,7 +1314,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -965,7 +1325,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1210",
@@ -973,7 +1336,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1211",
@@ -981,7 +1347,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1211",
@@ -989,7 +1358,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1211",
@@ -997,7 +1369,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1211",
@@ -1005,7 +1380,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1212",
@@ -1013,7 +1391,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1212",
@@ -1021,7 +1402,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1212",
@@ -1029,7 +1413,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1212",
@@ -1037,7 +1424,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1212",
@@ -1045,7 +1435,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1213",
@@ -1053,7 +1446,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1213",
@@ -1061,7 +1457,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1213",
@@ -1069,7 +1468,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1213",
@@ -1077,7 +1479,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1218",
@@ -1085,7 +1490,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1218",
@@ -1093,7 +1501,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1219",
@@ -1101,7 +1512,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1221",
@@ -1109,7 +1523,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1221",
@@ -1117,7 +1534,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1222",
@@ -1125,7 +1545,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1484",
@@ -1133,7 +1556,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1484",
@@ -1141,7 +1567,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1484",
@@ -1149,7 +1578,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1489",
@@ -1157,7 +1589,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1505",
@@ -1165,7 +1600,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1505",
@@ -1173,7 +1611,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1505",
@@ -1181,7 +1622,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1505",
@@ -1189,7 +1633,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1525",
@@ -1197,7 +1644,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1525",
@@ -1205,7 +1655,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1528",
@@ -1213,7 +1666,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1528",
@@ -1221,7 +1677,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1530",
@@ -1229,7 +1688,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1530",
@@ -1237,7 +1699,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1530",
@@ -1245,7 +1710,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1537",
@@ -1253,7 +1721,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1537",
@@ -1261,7 +1732,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1538",
@@ -1269,7 +1743,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1543",
@@ -1277,7 +1754,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1543",
@@ -1285,7 +1765,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1548",
@@ -1293,7 +1776,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1548",
@@ -1301,7 +1787,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1548",
@@ -1309,7 +1798,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1550",
@@ -1317,7 +1809,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1550",
@@ -1325,7 +1820,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1550",
@@ -1333,7 +1831,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1550",
@@ -1341,7 +1842,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1349,7 +1853,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1357,7 +1864,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1365,7 +1875,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1373,7 +1886,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1381,7 +1897,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1389,7 +1908,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1552",
@@ -1397,7 +1919,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1405,7 +1930,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1413,7 +1941,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1421,7 +1952,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1429,7 +1963,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1437,7 +1974,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1553",
@@ -1445,7 +1985,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1554",
@@ -1453,7 +1996,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1555",
@@ -1461,7 +2007,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1555",
@@ -1469,7 +2018,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1556",
@@ -1477,7 +2029,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1556",
@@ -1485,7 +2040,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1556",
@@ -1493,7 +2051,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1557",
@@ -1501,7 +2062,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1557",
@@ -1509,7 +2073,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1557",
@@ -1517,7 +2084,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1558",
@@ -1525,7 +2095,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1558",
@@ -1533,7 +2106,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1558",
@@ -1541,7 +2117,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1559",
@@ -1549,7 +2128,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1562",
@@ -1557,7 +2139,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1562",
@@ -1565,7 +2150,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1562",
@@ -1573,7 +2161,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1563",
@@ -1581,7 +2172,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1563",
@@ -1589,7 +2183,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1565",
@@ -1597,7 +2194,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1565",
@@ -1605,7 +2205,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1565",
@@ -1613,7 +2216,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1566",
@@ -1621,7 +2227,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1567",
@@ -1629,7 +2238,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1568",
@@ -1637,7 +2249,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1568",
@@ -1645,7 +2260,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1569",
@@ -1653,7 +2271,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1570",
@@ -1661,7 +2282,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1571",
@@ -1669,7 +2293,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1572",
@@ -1677,7 +2304,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1573",
@@ -1685,7 +2315,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": false,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1573",
@@ -1693,7 +2326,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1574",
@@ -1701,7 +2337,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1574",
@@ -1709,7 +2348,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1578",
@@ -1717,7 +2359,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1599",
@@ -1725,7 +2370,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1602",
@@ -1733,7 +2381,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1602",
@@ -1741,7 +2392,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1606",
@@ -1749,7 +2403,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1606",
@@ -1757,7 +2414,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": true,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1606",
@@ -1765,7 +2425,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1609",
@@ -1773,7 +2436,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1609",
@@ -1781,7 +2447,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1610",
@@ -1789,7 +2458,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1610",
@@ -1797,7 +2469,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1610",
@@ -1805,7 +2480,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1611",
@@ -1813,7 +2491,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1611",
@@ -1821,7 +2502,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1612",
@@ -1829,7 +2513,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1612",
@@ -1837,7 +2524,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1621",
@@ -1845,7 +2535,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1649",
@@ -1853,7 +2546,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1651",
@@ -1861,7 +2557,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1659",
@@ -1869,7 +2568,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1659",
@@ -1877,7 +2579,10 @@
         "Transitive (M1)": true,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1027",
@@ -1885,7 +2590,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1036",
@@ -1893,7 +2601,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1080",
@@ -1901,7 +2612,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1098",
@@ -1909,7 +2623,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -1917,7 +2634,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1190",
@@ -1925,7 +2645,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -1933,7 +2656,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -1941,7 +2667,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1195",
@@ -1949,7 +2678,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -1957,7 +2689,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -1965,7 +2700,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1199",
@@ -1973,7 +2711,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1221",
@@ -1981,7 +2722,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1564",
@@ -1989,7 +2733,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": true,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1584",
@@ -1997,7 +2744,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1608",
@@ -2005,55 +2755,76 @@
         "Transitive (M1)": false,
         "LLM (M2)": true,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": true,
+        "Is Gap": true,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": false
     },
     {
         "MITRE ATTACK Technique": "T1007",
         "P-SSCRM Task": "P.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1012",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1014",
         "P-SSCRM Task": "E.2.6",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1014",
         "P-SSCRM Task": "E.3.10",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1014",
         "P-SSCRM Task": "E.3.6",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1016",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1018",
@@ -2061,151 +2832,208 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1033",
         "P-SSCRM Task": "P.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1049",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": true
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "D.2.2",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "E.3.3",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "E.3.6",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1053",
         "P-SSCRM Task": "P.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "D.2.2",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "E.3.10",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "E.3.3",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "E.3.7",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1055",
         "P-SSCRM Task": "P.4.4",
-        "Transitive (M1)": true,
-        "LLM (M2)": true,
+        "Transitive (M1)": false,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1056",
         "P-SSCRM Task": "E.1.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1056",
         "P-SSCRM Task": "E.3.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1056",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1057",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1082",
@@ -2213,7 +3041,10 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1083",
@@ -2221,151 +3052,208 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1112",
         "P-SSCRM Task": "E.3.3",
-        "Transitive (M1)": true,
-        "LLM (M2)": true,
+        "Transitive (M1)": false,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1112",
         "P-SSCRM Task": "E.3.6",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1119",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1119",
         "P-SSCRM Task": "E.3.4",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1119",
         "P-SSCRM Task": "G.2.6",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1129",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1132",
         "P-SSCRM Task": "D.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1132",
         "P-SSCRM Task": "E.3.7",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1140",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1482",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": true
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1482",
         "P-SSCRM Task": "E.3.2",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1486",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1486",
         "P-SSCRM Task": "E.3.3",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1490",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1490",
         "P-SSCRM Task": "E.3.3",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1490",
         "P-SSCRM Task": "E.3.6",
-        "Transitive (M1)": true,
-        "LLM (M2)": true,
+        "Transitive (M1)": false,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1496",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1496",
         "P-SSCRM Task": "E.3.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1497",
@@ -2373,103 +3261,142 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1499",
         "P-SSCRM Task": "D.1.2",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1499",
         "P-SSCRM Task": "D.2.1",
-        "Transitive (M1)": true,
-        "LLM (M2)": true,
+        "Transitive (M1)": false,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1499",
         "P-SSCRM Task": "E.3.7",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1518",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1546",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1546",
         "P-SSCRM Task": "D.2.2",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1546",
         "P-SSCRM Task": "E.3.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1546",
         "P-SSCRM Task": "E.3.3",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1547",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1560",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": true
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1560",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1585",
         "P-SSCRM Task": "E.3.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
@@ -2477,151 +3404,208 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "E.1.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "E.1.4",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "E.3.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "E.3.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "E.3.9",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1586",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1587",
         "P-SSCRM Task": "G.4.3",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1587",
         "P-SSCRM Task": "G.5.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1587",
         "P-SSCRM Task": "P.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1588",
         "P-SSCRM Task": "G.4.3",
-        "Transitive (M1)": true,
-        "LLM (M2)": true,
+        "Transitive (M1)": false,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1589",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1591",
         "P-SSCRM Task": "G.3.4",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1593",
         "P-SSCRM Task": "G.4.1",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1595",
         "P-SSCRM Task": "D.2.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1595",
         "P-SSCRM Task": "G.4.3",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1622",
         "P-SSCRM Task": "D.2.1",
-        "Transitive (M1)": true,
+        "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1656",
         "P-SSCRM Task": "G.4.1",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1656",
         "P-SSCRM Task": "G.4.3",
         "Transitive (M1)": false,
         "LLM (M2)": false,
-        "Framework (M3)": true,
-        "Report (M4)": false
+        "Framework (M3)": false,
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1665",
@@ -2629,14 +3613,20 @@
         "Transitive (M1)": false,
         "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": true
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     },
     {
         "MITRE ATTACK Technique": "T1665",
         "P-SSCRM Task": "E.3.7",
         "Transitive (M1)": false,
-        "LLM (M2)": true,
+        "LLM (M2)": false,
         "Framework (M3)": false,
-        "Report (M4)": false
+        "Report (M4)": false,
+        "Is Gap": false,
+        "Agreed Upon All Strategies": false,
+        "Manual v1.1 Mapping": true
     }
 ]
