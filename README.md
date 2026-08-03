@@ -21,6 +21,15 @@ ats-to-ts/
             └── mappings.json
 ```
 
+## Version History
+
+Every released version is kept in its own directory under `data/`, following the `data/vX.Y.Z/{all,simple}` layout shown in [Repository Structure](#repository-structure), so prior results remain reproducible alongside the current release.
+
+| Version | Location | Description |
+|---------|----------|--------------|
+| **1.1 (current)** | [`data/v1.1/`](data/v1.1/) | Adds a `Manual v1.1 Mapping` field to the `all/` view to flag pairings added by manual review, growing the mapping from 251 to 330 (97 to 136 MITRE ATT&CK attack technique-to-task mappings). |
+| 1.0 | [`data/v1.0/`](data/v1.0/) | Initial release, with the `all/` view combining the mapping, per-strategy (M1–M4) flags, gap-task indicator, and cross-strategy agreement field. |
+
 ## Version
 
 Each version directory contains two views of the same mapping release. Each view is provided in CSV and JSON formats.
